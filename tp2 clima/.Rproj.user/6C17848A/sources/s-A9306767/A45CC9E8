@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593590146253.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A45CC9E8",
+    "lastKnownWriteTime" : 3548067076488918113,
+    "last_content_update" : 1593590146253,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4D32AB09",
+        "caption" : "dfCompleto",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dfCompleto&cache_key=4D32AB09",
+        "displayedObservations" : "125",
+        "environment" : "",
+        "expression" : "dfCompleto",
+        "object" : "dfCompleto",
+        "preview" : "0",
+        "totalObservations" : "125",
+        "variables" : "9"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
